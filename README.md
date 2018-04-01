@@ -5,7 +5,7 @@
 
 <hr>
 
-## SKILLS
+### SKILLS
 - Ruby on Rails 開發經驗，了解MVC架構
 - 熟悉 HTML5 、CSS3 完成網頁架構和切版
 - 熟悉Bootstrap 快速開RWD發響應式網頁
@@ -17,7 +17,7 @@
 
 <hr>
 
-## EXPERIENCE
+### EXPERIENCE
 # PlayPlus 前端工程師 UI / UX Engineer
 -  Ruby on Rails 網頁開發 / 網頁排版與切版 /  客製化網頁動態功能開發 /  RWD網頁設計 / UI介面設計與規劃
  / 瀏覽器兼容性維護 / 協助後端技術維護
@@ -31,19 +31,7 @@ Prototype 製作 (Arduino,Max,3D printer...)
 
 <hr>
 
-## SKILLS
-- Ruby on Rails 開發經驗，了解MVC架構
-- 熟悉 HTML5 、CSS3 完成網頁架構和切版
-- 熟悉Bootstrap 快速開RWD發響應式網頁
-- 了解 Javascript 基本語法，並使用 jQuery / CSS3 / 第三方套件 呈現網頁動態效果及客製化功能
-- 了解 Git / Github 與基本指令運用、版本控管
-- 使用 illustrator、photoshop 進行網頁排版設計及UI設計, 重視使用者體驗及優化
-- 瀏覽器兼容性版面調整經驗（Chrome、Safari、IE、FireFox）
-- 了解前端框架 React,Vue 基礎概念
-
-<hr>
-
-## ABOUT
+### ABOUT
 羅芷榕，喜愛設計的前端工程師，前端工作經歷兩年。
 在學期間，專注於 網頁程式設計、 多媒體互動藝術創作、 UI/UX等領域。
 喜歡多方面嘗試不同的專業、 團體合作，開拓自己的視野及學習新的挑戰。
