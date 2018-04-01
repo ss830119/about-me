@@ -18,15 +18,15 @@
 <hr>
 
 ### EXPERIENCE
-# PlayPlus 前端工程師 UI / UX Engineer
+#### PlayPlus 前端工程師 UI / UX Engineer
 -  Ruby on Rails 網頁開發 / 網頁排版與切版 /  客製化網頁動態功能開發 /  RWD網頁設計 / UI介面設計與規劃
  / 瀏覽器兼容性維護 / 協助後端技術維護
 
-# Z1 STAR 暑期實習計畫 不來梅網路 / 梅林鬍子實驗室  技術組實習生
+#### Z1 STAR 暑期實習計畫 不來梅網路 / 梅林鬍子實驗室  技術組實習生
 -  創意互動行銷案發想與提案  / 使用者體驗探討及優化 / 互動裝置技術開發 / 美術設計 /
 Prototype 製作 (Arduino,Max,3D printer...)
 
-# WhyMaker +媒體藝術設計研究室  大學部成員
+#### WhyMaker +媒體藝術設計研究室  大學部成員
 -  電腦輔助設計技術指導( Arduino,3D printer,Lasercut) / 人機互動提案與探討 / 使用者體驗優化
 
 <hr>
