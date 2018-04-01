@@ -40,6 +40,7 @@ Prototype 製作 (Arduino,Max,3D printer...)
 <hr>
 
 ### WORKS
+- <a href=http://sandyluodesign.com/resume-rgb.pdf" target="_blank"><B>個人履歷PDF</B> (RWD)</a> <BR>
 - <a href="http://sandyluodesign.com" target="_blank"><B>個人網頁作品集</B> (RWD)</a> <BR>
 - <a href="https://issuu.com/sandylo0119/docs/profolio______" target="_blank"><B>ISSUU-設計作品集</B></a> <BR>
 
