@@ -40,7 +40,7 @@ Prototype 製作 (Arduino,Max,3D printer...)
 <hr>
 
 ### WORKS
-- 網站作品 : <a href="https://www.sigmu.tw/" target="_blank">文章類網站A</a> / <a href="https://www.wealth.com.tw/" target="_blank">文章類網站B</a> / <a href="http://hirata.com.tw/" target="_blank">形象網站A</a> / <a href="http://smarthome.myvita.com.tw/" target="_blank">形象網站B</a> / <a href="http://www.mini-storage.com.tw/" target="_blank">形象網站C</a> / <a href="https://cuotahouse.com/" target="_blank">功能網站A</a> / <a href="http://form.myvita.com.tw/home?survey_type=business" target="_blank">功能網站B</a>
+- 網站作品 : <a href="https://www.sigmu.tw/" target="_blank">文章類網站A</a> / <a href="https://www.wealth.com.tw/" target="_blank">文章類網站B</a> / <a href="http://hirata.com.tw/" target="_blank">形象網站A</a> / <a href="http://smarthome.myvita.com.tw/" target="_blank">形象網站B</a> / <a href="http://www.mini-storage.com.tw/" target="_blank">形象網站C</a> / <a href="https://www.wealthstore.com.tw/" target="_blank">功能網站A</a> / <a href="http://form.myvita.com.tw/home?survey_type=business" target="_blank">功能網站B</a> / <a href="https://cuotahouse.com/" target="_blank">功能網站C</a>
 
 - <a href="http://sandyluodesign.com/resume-rgb.pdf" target="_blank"><B>個人履歷PDF</B></a> <BR>
 
