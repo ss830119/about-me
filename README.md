@@ -40,9 +40,18 @@ Prototype 製作 (Arduino,Max,3D printer...)
 <hr>
 
 ### WORKS
+- 網站作品 : <a href="https://www.sigmu.tw/" target="_blank">文章類網站A</a> / <a href="https://www.wealth.com.tw/" target="_blank">文章類網站B</a>
+
+<br>
+
+<a href="http://hirata.com.tw/" target="_blank">形象網站A</a> / <a href="http://smarthome.myvita.com.tw/" target="_blank">形象網站B</a> / <a href="http://www.mini-storage.com.tw/" target="_blank">形象網站C</a>
+<br>
+<a href="https://cuotahouse.com/" target="_blank">功能網站A</a>
+<a href="http://form.myvita.com.tw/home?survey_type=business" target="_blank">功能網站B</a>
+
 - <a href="http://sandyluodesign.com/resume-rgb.pdf" target="_blank"><B>個人履歷PDF</B></a> <BR>
-- <a href="http://sandyluodesign.com" target="_blank"><B>個人網頁作品集</B> (RWD)</a> <BR>
-- <a href="https://issuu.com/sandylo0119/docs/profolio______" target="_blank"><B>ISSUU-設計作品集</B></a> <BR>
+
+- <a href="https://issuu.com/sandylo0119/docs/profolio______" target="_blank"><B>ISSUU-2014-2016設計作品集</B></a> <BR>
 
 
 
