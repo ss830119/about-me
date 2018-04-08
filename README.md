@@ -13,7 +13,7 @@
 - 了解 Git / Github 與基本指令運用、版本控管
 - 使用 illustrator、photoshop 進行網頁排版設計及UI設計, 重視使用者體驗及優化
 - 瀏覽器兼容性版面調整經驗（Chrome、Safari、IE、FireFox）
-- 了解前端框架 React,Vue 基礎概念
+- 了解前端框架 React,Vue
 
 <hr>
 
