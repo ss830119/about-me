@@ -1,7 +1,7 @@
 # 羅芷榕 (Sandy Luo)
 - Education: 元智大學資傳系-多媒體設計組
 - Location: Taipei City
-- E-mail: ss830119@gmail.com
+- E-mail: zxccxz011911@gmail.com
 
 <hr>
 
