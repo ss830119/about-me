@@ -9,6 +9,7 @@
 - Ruby on Rails 開發經驗，了解MVC架構
 - 熟悉 HTML5 、CSS3 完成網頁架構和切版
 - 熟悉Bootstrap 快速開發RWD響應式網頁
+- 串接API與社群串連功能
 - 了解 Javascript 基本語法，並使用 jQuery / CSS3 / 第三方套件 呈現網頁動態效果及客製化功能
 - 了解 Git / Github 與基本指令運用、版本控管
 - 使用 illustrator、photoshop 進行網頁排版設計及UI設計, 重視使用者體驗及優化
@@ -44,11 +45,11 @@ Prototype 製作 (Arduino,Max,3D printer...)
 <hr>
 
 ### WORKS
-- 網站作品 : <a href="https://www.sigmu.tw/" target="_blank">文章類網站A</a> / <a href="https://www.wealth.com.tw/" target="_blank">文章類網站B</a> / <a href="http://hirata.com.tw/" target="_blank">形象網站A</a> / <a href="http://smarthome.myvita.com.tw/" target="_blank">形象網站B</a> / <a href="http://www.mini-storage.com.tw/" target="_blank">形象網站C</a> / <a href="https://www.wealthstore.com.tw/" target="_blank">功能網站A</a> / <a href="http://form.myvita.com.tw/home?survey_type=business" target="_blank">功能網站B</a> / <a href="https://cuotahouse.com/" target="_blank">功能網站C</a>
+- 網站作品 : <a href="https://b787.evaair.com/eva787Game/index.html?utm_source=friendo&utm_medium=brand_banner" target="_blank">近期作品A</a> / <a href="http://event.nissan.com.tw/sentra19my/?utm_source=brand_banner" target="_blank">近期作品B</a> / <a href="https://www.sigmu.tw/" target="_blank">文章類網站A</a> / <a href="https://www.wealth.com.tw/" target="_blank">文章類網站B</a> / <a href="http://hirata.com.tw/" target="_blank">形象網站A</a> / <a href="http://smarthome.myvita.com.tw/" target="_blank">形象網站B</a> / <a href="http://www.mini-storage.com.tw/" target="_blank">形象網站C</a> / <a href="https://www.wealthstore.com.tw/" target="_blank">功能網站A</a>
 
 - <a href="http://sandyluodesign.com/resume-web.jpg" target="_blank"><B>個人履歷</B></a> <BR>
 - <a href="http://sandyluodesign.com/sec_style.html" target="_blank"><B>個人網站作品集</B></a> <BR>
-
+- <a href="https://medium.com/@ss830119" target="_blank"><B>個人部落格</B></a> <BR>
 - <a href="https://issuu.com/sandylo0119/docs/profolio______" target="_blank"><B>ISSUU-2014-2016設計作品集</B></a> <BR>
 
 
