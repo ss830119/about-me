@@ -9,7 +9,7 @@
 - Ruby on Rails 開發經驗，了解MVC架構
 - 熟悉 HTML5 、CSS3 完成網頁架構和切版
 - 熟悉Bootstrap 快速開發RWD響應式網頁
-- 串接API與社群串連功能
+- 串接API與社群串連功能(Line,FB,Google....)等經驗
 - 了解 Javascript 基本語法，並使用 jQuery / CSS3 / 第三方套件 呈現網頁動態效果及客製化功能
 - 了解 Git / Github 與基本指令運用、版本控管
 - 使用 illustrator、photoshop 進行網頁排版設計及UI設計, 重視使用者體驗及優化
