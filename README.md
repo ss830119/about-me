@@ -45,10 +45,8 @@ Prototype 製作 (Arduino,Max,3D printer...)
 <hr>
 
 ### WORKS
-- 網站作品 : <a href="https://b787.evaair.com/eva787Game/index.html?utm_source=friendo&utm_medium=brand_banner" target="_blank">近期作品A</a> / <a href="http://event.nissan.com.tw/sentra19my/?utm_source=brand_banner" target="_blank">近期作品B</a> / <a href="https://www.sigmu.tw/" target="_blank">文章類網站A</a> / <a href="https://www.wealth.com.tw/" target="_blank">文章類網站B</a> / <a href="http://hirata.com.tw/" target="_blank">形象網站A</a> / <a href="http://smarthome.myvita.com.tw/" target="_blank">形象網站B</a> / <a href="http://www.mini-storage.com.tw/" target="_blank">形象網站C</a> / <a href="https://www.wealthstore.com.tw/" target="_blank">功能網站A</a>
-
-- <a href="http://sandyluodesign.com/resume-web.jpg" target="_blank"><B>個人履歷</B></a> <BR>
-- <a href="http://sandyluodesign.com/sec_style.html" target="_blank"><B>個人網站作品集</B></a> <BR>
+- <a href="https://ss830119.github.io/resume-web.jpg" target="_blank"><B>個人履歷</B></a> <BR>
+- <a href="https://ss830119.github.io/" target="_blank"><B>個人網站作品集</B></a> <BR>
 - <a href="https://medium.com/@ss830119" target="_blank"><B>個人部落格</B></a> <BR>
 - <a href="https://issuu.com/sandylo0119/docs/profolio______" target="_blank"><B>ISSUU-2014-2016設計作品集</B></a> <BR>
 
