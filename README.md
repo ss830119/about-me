@@ -45,8 +45,8 @@ Prototype 製作 (Arduino,Max,3D printer...)
 <hr>
 
 ### WORKS
-- <a href="https://ss830119.github.io/resume-web.jpg" target="_blank"><B>個人履歷</B></a> <BR>
-- <a href="https://ss830119.github.io/" target="_blank"><B>個人網站作品集</B></a> <BR>
+- <a href="https://zxccxz0119.github.io/resume-web.jpg" target="_blank"><B>個人履歷</B></a> <BR>
+- <a href="https://zxccxz0119.github.io/" target="_blank"><B>個人網站作品集</B></a> <BR>
 - <a href="https://medium.com/@ss830119" target="_blank"><B>個人部落格</B></a> <BR>
 - <a href="https://issuu.com/sandylo0119/docs/profolio______" target="_blank"><B>ISSUU-2014-2016設計作品集</B></a> <BR>
 
