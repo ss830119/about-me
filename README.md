@@ -1,4 +1,4 @@
-# 羅芷榕 (Sandy Luo)
+<!-- # 羅芷榕 (Sandy Luo)
 - Education: 元智大學資傳系-多媒體設計組
 - Location: Taipei City
 - E-mail: zxccxz011911@gmail.com
@@ -48,7 +48,7 @@ Prototype 製作
 ### WORKS
 - <a href="https://zxccxz0119.github.io/" target="_blank"><B>網站作品集</B></a> <BR>
 <!-- - <a href="https://zxccxz0119.github.io/resume-web.jpg" target="_blank"><B>個人履歷(2018)</B></a> <BR> -->
-- <a href="https://issuu.com/sandylo0119/docs/profolio______" target="_blank"><B>ISSUU-2014-2016設計作品集</B></a> <BR>
+- <a href="https://issuu.com/sandylo0119/docs/profolio______" target="_blank"><B>ISSUU-2014-2016設計作品集</B></a> <BR> -->
 
 
 
