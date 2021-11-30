@@ -47,9 +47,9 @@ Prototype 製作
 
 ### WORKS
 - <a href="https://zxccxz0119.github.io/" target="_blank"><B>網站作品集</B></a> <BR>
-<!-- - <a href="https://zxccxz0119.github.io/resume-web.jpg" target="_blank"><B>個人履歷(2018)</B></a> <BR> -->
-- <a href="https://issuu.com/sandylo0119/docs/profolio______" target="_blank"><B>ISSUU-2014-2016設計作品集</B></a> <BR> -->
+- <a href="https://zxccxz0119.github.io/resume-web.jpg" target="_blank"><B>個人履歷(2018)</B></a> <BR> 
+- <a href="https://issuu.com/sandylo0119/docs/profolio______" target="_blank"><B>ISSUU-2014-2016設計作品集</B></a> <BR>
 
 
 
-
+ -->
